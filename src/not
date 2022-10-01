@@ -1,0 +1,27 @@
+****Mülakat Sorusu :bangbang:
+Java nesne yönelimli bir programlama dilidir.
+****Stack Memory & Heap Memory farkı mülakat sorusudur arkadaşlar.
+****JAVA, OOP konsepli bir proglama dilidir.
+Object odaklı geliştirilen bir dildir.
+Objeler(Nesne), Class larda oluşturulur.
+Kod Blokları -->< Curly Braces ( { } )
+İsimlendirme -> Naming Convention
+Class isimleri büyük harf ile başlar
+Diğerleri küçük harf ile başlar
+Java, Case Sensitive dir. Büyük-küçük harf duyarlıdır.
+Main Method --> Entry Point, Giriş Noktasıdır.
+Main method tanımlanmaz ise kod run edilemez.
+Comment Line (Yorum Satırları)
+// --> Tek Satır Comment Line
+/*
+*/ --> Çok Satırlı Comment Line
+Çalışması istenmeyen ve ya not düşülmek istenen yerde kullanılır. Java commentlenmiş satırları çalıştırmaz
+Variable Önce tanımlanır (Decleration), Sonra atama (assignment) yapılır
+Bir variable bir kere create edilir. Fakat değeri değişebilir.  (edited)
+******İş nereden aranır?
+      Linkedin
+      Glassdoor
+      Indeed
+      Xing
+      Dice
+      angel.co
