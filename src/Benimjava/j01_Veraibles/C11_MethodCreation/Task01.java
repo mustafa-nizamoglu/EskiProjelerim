@@ -1,4 +1,4 @@
-package C11_MethodCreation;
+package Benimjava.j01_Veraibles.C11_MethodCreation;
 
 import java.util.Scanner;
 

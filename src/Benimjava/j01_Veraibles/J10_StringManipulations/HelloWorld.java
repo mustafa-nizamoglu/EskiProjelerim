@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles;
+package Benimjava.j01_Veraibles.J10_StringManipulations;
 
 public class HelloWorld {
     public static void main(String[] args) {

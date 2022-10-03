@@ -1,8 +1,6 @@
-package C11_MethodCreation;
+package Benimjava.j01_Veraibles.C11_MethodCreation;
 
 import java.util.Scanner;
-
-import static java.lang.Math.random;
 
 public class ödev28092022 {
     public static void main(String[] args) {

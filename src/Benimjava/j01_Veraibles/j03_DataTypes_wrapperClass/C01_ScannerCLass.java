@@ -27,7 +27,7 @@ public class C01_ScannerCLass {
 
 
 /*
-kullanıcın
+kullanıcının günlük içtiği çaymiktarını hesaplayan  code creat ediniz
  */
       //  System.out.println("günlük sayısını  giriniz");
       //  int caySayısı= scanner.nextInt();
@@ -37,6 +37,11 @@ kullanıcın
 
         //System.out.println("caySayısı = " + (caySayısı*1.7*365)/100);;
         //System.out.println("şeker sayısını = " + (caySayısı*1.7*365)/100);;
+
+
+/*
+kullanıcının isminin ilk karakterini yazan code creat ediniz
+ */
 
         Scanner scanner=new Scanner(System.in);
 
