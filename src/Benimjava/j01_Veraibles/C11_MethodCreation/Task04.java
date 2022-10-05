@@ -1,7 +1,5 @@
 package Benimjava.j01_Veraibles.C11_MethodCreation;
 
-import java.util.Scanner;
-
 public class Task04 {
     /*
     Bakıye (başlangıç bakıyesi 1000 tl) öğrenme, para yatırma ve cekme, çıkış işlemlerinin yapıldıgı bir

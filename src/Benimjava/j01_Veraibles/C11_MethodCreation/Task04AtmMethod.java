@@ -11,22 +11,20 @@ public class Task04AtmMethod {
         switch (secim){
             case 1:
                 bakiye();
-
                 break;
             case 2:
                 paraYatrir();
-
                 break;
             case 3:
                 paraÇek();
-
                 break;
             case 4:
                 cıkısYap();
-
                 break;
             default:
                 System.out.println("agam daha secim yapamirsen di de para istirsen");
+                secim();
+
 
         }
 
@@ -66,9 +64,10 @@ public class Task04AtmMethod {
         karar();
     }
     public static void karar() {
-        System.out.println("agam işleme \ndevam ise 1\nyeter ->0");
+        System.out.println("agam işleme \nisleme devam ise 1\ncıkıs->0");
         int karar = sc.nextInt();
         if (karar == 1) {
+            System.out.println("MÖNÜ  :) \n  ***  ATM ye hoş geldiniz   ***"); System.out.println("Bakiye öğrenme -> 1\nPara yatırma -> 2\nPara Çeke -> 3\nÇıkış -> 4\nGiriniz : ");
             secim();
         } else if (karar == 0) {
             cıkısYap();

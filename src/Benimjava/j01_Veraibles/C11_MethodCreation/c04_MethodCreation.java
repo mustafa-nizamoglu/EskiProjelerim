@@ -1,7 +1,5 @@
 package Benimjava.j01_Veraibles.C11_MethodCreation;
 
-import static Benimjava.j01_Veraibles.C11_MethodCreation.C04_MethodDepo.topla;
-
 public class c04_MethodCreation {
     public static void main(String[] args) {
         String name="mustafa";
