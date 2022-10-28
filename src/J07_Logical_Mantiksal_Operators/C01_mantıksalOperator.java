@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.J07_Logical_Mantiksal_Operators;
+package J07_Logical_Mantiksal_Operators;
 
 public class C01_mantıksalOperator {
     public static void main(String[] args)

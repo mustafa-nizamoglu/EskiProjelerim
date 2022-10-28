@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class ödev19Ekim {
+public class ödev19Ekim1task {
 
     /*
     ismi getCount() olan bir method oluşturun.

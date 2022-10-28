@@ -1,4 +1,4 @@
-package j22_DateTime;
+package j22_DateTime.girşproje;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

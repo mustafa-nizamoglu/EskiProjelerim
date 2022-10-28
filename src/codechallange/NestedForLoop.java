@@ -1,4 +1,4 @@
-package codecalence;
+package codechallange;
 
 import java.util.Scanner;
 

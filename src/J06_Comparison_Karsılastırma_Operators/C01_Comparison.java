@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.J06_Comparison_Karsılastırma_Operators;
+package J06_Comparison_Karsılastırma_Operators;
 
 public class C01_Comparison {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.J06_Comparison_Karsılastırma_Operators;
+package J06_Comparison_Karsılastırma_Operators;
 
 import java.util.Scanner;
 

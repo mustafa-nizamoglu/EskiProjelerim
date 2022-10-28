@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.J10_StringManipulations;
+package j10_StringManipulation;
 
 public class C10_İsEmpty {
     public static void main(String[] args) {

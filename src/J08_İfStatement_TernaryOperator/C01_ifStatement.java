@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.J08_İfStatement_TernaryOperator;
+package J08_İfStatement_TernaryOperator;
 
 public class C01_ifStatement {
     public static void main(String[] args) {

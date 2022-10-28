@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.j04_AritmetikOperators;
+package j04_AritmetikOperators;
 
 import java.util.Scanner;
 

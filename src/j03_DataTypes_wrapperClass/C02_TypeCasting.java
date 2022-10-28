@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.j03_DataTypes_wrapperClass;
+package j03_DataTypes_wrapperClass;
 
 import java.util.Scanner;
 

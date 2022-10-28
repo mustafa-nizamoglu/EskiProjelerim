@@ -1,4 +1,4 @@
-package j22_DateTime;
+package j22_DateTime.girşproje;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class GirişPaneli {
 
     //public static void giris(){ //
-        public  void giris(){
+        public  void giris(){    //
         Scanner sc=new Scanner(System.in);
 
         Kayıt yeniKayıt=new Kayıt();                                  //kayıt class a erişim içim parametresiz cons ile YeniKayıt obj üretildi

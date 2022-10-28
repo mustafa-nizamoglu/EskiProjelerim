@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.j02_DataTypes_WrapperClass;
+package j02_DataTypes_WrapperClass;
 
 public class C02_DataTypes {
     public static void main(String[] args) {

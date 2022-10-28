@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.j05_Asigment_Atama_Operators;
+package j05_Asigment_Atama_Operators;
 
 public class ödev {
     public static void main(String[] args) {

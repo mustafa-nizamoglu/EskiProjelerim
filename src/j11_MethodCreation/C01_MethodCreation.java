@@ -1,4 +1,4 @@
-  package Benimjava.j01_Veraibles.C11_MethodCreation;
+  package j11_MethodCreation;
   public class C01_MethodCreation {       /*
  code okunabilirliği ve sadeliği için sürekli kullanılan aksiynlar için method create edip
     main method'a call edip run etmek uygulamanın test edilmesi mantanance ve reusable açısından tracih edilir

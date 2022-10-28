@@ -1,4 +1,4 @@
-package j22_DateTime;
+package j22_DateTime.girşproje;
 
 public class Taskkullanıcı {
 //    TASK - >

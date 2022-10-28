@@ -1,4 +1,4 @@
-package j22_DateTime;
+package j22_DateTime.girşproje;
 
 import java.time.LocalDateTime;
 //Task-->1. step

@@ -1,4 +1,4 @@
-package Benimjava.j01_Veraibles.J10_StringManipulations;
+package j10_StringManipulation;
 
 import java.util.Scanner;
 

@@ -1,6 +1,5 @@
-package Benimjava.j01_Veraibles.J09_SwitchStatement;
+package J09_SwitchStatement;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Tekrar06 {
