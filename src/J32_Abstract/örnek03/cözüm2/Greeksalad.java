@@ -9,4 +9,9 @@ public class Greeksalad extends Salad {
         System.out.println("rum salatası");
 
     }
+
+    @Override
+    public void madein() {
+
+    }
 }

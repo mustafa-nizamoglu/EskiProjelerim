@@ -9,4 +9,12 @@ public class Sezarsalad extends Salad {
     public void madeIn() {
         System.out.println("söğüşmü ");
     }
+
+    @Override
+    public void madein() {
+
+    }
+
+    public void taste() {
+    }
 }
